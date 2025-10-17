@@ -1,0 +1,386 @@
+empid,department,position,salary,genderid,dateofhire,performancescore,gender,year,salaries,overtime,total_compensation,overtime_missing_flag,annual_salary_growth,overtime_ratio,department_avg_salary_gap,compensation_salary_ratio,gender_flag,tenure_years,tenure_bucket
+10001,Production       ,Production Manager,72640,1,2016-01-28,Exceeds,Male,2015.0,174788.6,94.67,238233.06,0,,0.0013032764317180616,12682.015625,3.28,1,9.7,5–10 yrs
+10002,Production       ,Production Technician I,57568,0,2012-01-09,Exceeds,Female,2015.0,57568.0,0.0,57568.0,1,,0.0,-2389.984375,1.0,0,13.8,10–20 yrs
+10003,Production       ,Production Technician I,62910,0,2014-07-07,Exceeds,Female,2015.0,62910.0,0.0,62910.0,1,,0.0,2952.015625,1.0,0,11.3,10–20 yrs
+10004,Production       ,Production Technician I,47434,0,2011-11-07,Exceeds,Female,2015.0,47434.0,0.0,47434.0,1,,0.0,-12523.984375,1.0,0,14.0,10–20 yrs
+10005,Software Engineering,Software Engineer,108987,1,2011-11-07,Exceeds,Male,2015.0,92192.96,0.0,132730.43,0,,0.0,13540.733333333337,1.22,1,14.0,10–20 yrs
+10006,Sales,Area Sales Manager,74241,0,2011-01-10,Exceeds,Female,2014.0,84157.97,0.0,121089.81,0,,0.0,6152.625,1.63,0,14.8,10–20 yrs
+10007,Production       ,Production Technician I,62065,0,2014-05-12,Exceeds,Female,2015.0,62065.0,0.0,62065.0,1,,0.0,2107.015625,1.0,0,11.4,10–20 yrs
+10008,IT/IS,IT Support,51777,0,2011-01-21,Exceeds,Female,2015.0,51777.0,0.0,51777.0,1,,0.0,-46152.19354838709,1.0,0,14.7,10–20 yrs
+10009,Production       ,Production Technician II,60724,0,2011-07-05,Exceeds,Female,2015.0,60724.0,0.0,60724.0,1,,0.0,766.015625,1.0,0,14.3,10–20 yrs
+10010,IT/IS,CIO,220450,0,2010-04-10,Exceeds,Female,2014.0,122406.0,0.0,174329.68,0,,0.0,122520.80645161291,0.79,0,15.5,10–20 yrs
+10011,Production       ,Production Technician I,46738,0,2011-11-28,Exceeds,Female,2014.0,61407.1,0.0,91338.5,0,,0.0,-13219.984375,1.95,0,13.9,10–20 yrs
+10011,Production       ,Production Technician I,46738,0,2011-11-28,Exceeds,Female,2016.0,73506.93,0.0,110128.27,0,0.0,0.0,-13219.984375,2.36,0,13.9,10–20 yrs
+10012,IT/IS,Data Analyst,92328,1,2014-11-10,Exceeds,Male,2015.0,69501.3,30566.46,147946.43,0,,0.33106381596048867,-5601.193548387091,1.6,1,10.9,10–20 yrs
+10012,IT/IS,Data Analyst,92328,1,2014-11-10,Exceeds,Male,2016.0,71991.3,12568.68,129568.5,0,0.0,0.13613075123472837,-5601.193548387091,1.4,1,10.9,10–20 yrs
+10013,Sales,Area Sales Manager,64397,1,2006-01-09,Exceeds,Male,2015.0,64397.0,0.0,64397.0,1,,0.0,-3691.375,1.0,1,19.8,10–20 yrs
+10014,Production       ,Production Technician I,58523,1,2012-08-13,Exceeds,Male,2014.0,79623.66,0.0,117238.53,0,,0.0,-1434.984375,2.0,1,13.2,10–20 yrs
+10014,Production       ,Production Technician I,58523,1,2012-08-13,Exceeds,Male,2015.0,87338.71,0.0,128548.55,0,0.0,0.0,-1434.984375,2.2,1,13.2,10–20 yrs
+10014,Production       ,Production Technician I,58523,1,2012-08-13,Exceeds,Male,2016.0,94456.23,0.0,134260.74,0,0.0,0.0,-1434.984375,2.29,1,13.2,10–20 yrs
+10015,IT/IS,IT Director,178000,1,2011-04-15,Exceeds,Male,2015.0,178000.0,0.0,178000.0,1,,0.0,80070.80645161291,1.0,1,14.5,10–20 yrs
+10016,IT/IS,Data Analyst,93554,0,2014-11-10,Exceeds,Female,2015.0,93554.0,0.0,93554.0,1,,0.0,-4375.193548387091,1.0,0,10.9,10–20 yrs
+10017,Production       ,Production Manager,77915,0,2013-09-30,Exceeds,Female,2014.0,40148.54,466.6,76358.95,0,,0.005988577295771033,17957.015625,0.98,0,12.1,10–20 yrs
+10018,Production       ,Production Technician I,57815,0,2014-09-29,Exceeds,Female,2015.0,57815.0,0.0,57815.0,1,,0.0,-2142.984375,1.0,0,11.1,10–20 yrs
+10019,Production       ,Director of Operations,170500,1,2009-01-05,Exceeds,Male,2015.0,170500.0,0.0,170500.0,1,,0.0,110542.015625,1.0,1,16.8,10–20 yrs
+10020,Production       ,Production Technician I,63353,1,2013-07-08,Exceeds,Male,2015.0,63353.0,0.0,63353.0,1,,0.0,3395.015625,1.0,1,12.3,10–20 yrs
+10021,Production       ,Production Technician I,47414,1,2013-09-30,Exceeds,Male,2013.0,0.0,0.0,118.97,0,,0.0,-12543.984375,0.0,1,12.1,10–20 yrs
+10022,Production       ,Production Technician I,49773,0,2011-09-26,Exceeds,Female,2015.0,49773.0,0.0,49773.0,1,,0.0,-10184.984375,1.0,0,14.1,10–20 yrs
+10023,Production       ,Production Technician II,70131,0,2016-07-21,Exceeds,Female,2015.0,62243.01,14894.84,120701.05,0,,0.21238596341133023,10173.015625,1.72,0,9.2,5–10 yrs
+10024,Software Engineering,Software Engineer,92989,1,2014-07-07,Exceeds,Male,2013.0,3723.96,0.0,5800.86,0,,0.0,-2457.266666666663,0.06,1,11.3,10–20 yrs
+10024,Software Engineering,Software Engineer,92989,1,2014-07-07,Exceeds,Male,2014.0,15241.87,0.0,23870.49,0,0.0,0.0,-2457.266666666663,0.26,1,11.3,10–20 yrs
+10024,Software Engineering,Software Engineer,92989,1,2014-07-07,Exceeds,Male,2015.0,20311.46,0.0,36745.45,0,0.0,0.0,-2457.266666666663,0.4,1,11.3,10–20 yrs
+10025,Production       ,Production Technician II,72460,0,2013-05-13,Exceeds,Female,2016.0,166234.76,306.94,259297.52,0,,0.004235992271598123,12502.015625,3.58,0,12.4,10–20 yrs
+10026,Production       ,Production Technician I,62506,1,2011-07-05,Exceeds,Male,2013.0,60534.0,452.0,96420.7,0,,0.007231305794643714,2548.015625,1.54,1,14.3,10–20 yrs
+10026,Production       ,Production Technician I,62506,1,2011-07-05,Exceeds,Male,2014.0,11393.13,0.0,18036.49,0,0.0,0.0,2548.015625,0.29,1,14.3,10–20 yrs
+10027,Production       ,Production Technician II,60656,1,2014-09-29,Exceeds,Male,2015.0,60656.0,0.0,60656.0,1,,0.0,698.015625,1.0,1,11.1,10–20 yrs
+10028,IT/IS,IT Manager - Support,138888,1,2014-01-05,Exceeds,Male,2016.0,4681.8,0.0,6796.98,0,,0.0,40958.80645161291,0.05,1,11.8,10–20 yrs
+10029,Production       ,Production Technician I,50373,1,2016-07-06,Exceeds,Male,2015.0,50373.0,0.0,50373.0,1,,0.0,-9584.984375,1.0,1,9.3,5–10 yrs
+10030,Production       ,Production Technician I,62425,0,2013-05-13,Exceeds,Female,2015.0,62425.0,0.0,62425.0,1,,0.0,2467.015625,1.0,0,12.4,10–20 yrs
+10031,Production       ,Production Technician I,59892,1,2011-07-11,Exceeds,Male,2015.0,14711.74,0.0,23035.61,0,,0.0,-65.984375,0.38,1,14.3,10–20 yrs
+10031,Production       ,Production Technician I,59892,1,2011-07-11,Exceeds,Male,2016.0,9186.47,0.0,15218.53,0,0.0,0.0,-65.984375,0.25,1,14.3,10–20 yrs
+10032,Production       ,Production Technician II,57954,0,2011-05-16,Exceeds,Female,2015.0,57954.0,0.0,57954.0,1,,0.0,-2003.984375,1.0,0,14.4,10–20 yrs
+10033,Production       ,Production Technician II,70507,1,2013-01-07,Exceeds,Male,2015.0,70507.0,0.0,70507.0,1,,0.0,10549.015625,1.0,1,12.8,10–20 yrs
+10034,Production       ,Production Technician I,46837,1,2011-11-07,Exceeds,Male,2013.0,68822.0,53.9,111511.11,0,,0.0011507995815274248,-13120.984375,2.38,1,14.0,10–20 yrs
+10034,Production       ,Production Technician I,46837,1,2011-11-07,Exceeds,Male,2015.0,35075.01,0.0,71803.32,0,0.0,0.0,-13120.984375,1.53,1,14.0,10–20 yrs
+10035,Production       ,Production Technician II,73330,0,2013-08-19,Exceeds,Female,2013.0,170560.0,0.0,225286.98,0,,0.0,13372.015625,3.07,0,12.2,10–20 yrs
+10036,Production       ,Production Technician II,63322,0,2014-07-07,Exceeds,Female,2013.0,107638.52,0.0,148849.82,0,,0.0,3364.015625,2.35,0,11.3,10–20 yrs
+10037,Production       ,Production Technician I,52984,0,2013-04-01,Exceeds,Female,2015.0,52984.0,0.0,52984.0,1,,0.0,-6973.984375,1.0,0,12.6,10–20 yrs
+10038,Admin Offices,Accountant I,64520,1,2014-01-06,Fully Meets,Male,2015.0,64520.0,0.0,64520.0,1,,0.0,-4218.8181818181765,1.0,1,11.8,10–20 yrs
+10039,Admin Offices,Administrative Assistant,51920,0,2015-05-01,Fully Meets,Female,2015.0,51920.0,0.0,51920.0,1,,0.0,-16818.818181818177,1.0,0,10.5,10–20 yrs
+10040,Sales,Area Sales Manager,71860,0,2014-08-18,Fully Meets,Female,2014.0,1933.2,0.0,3215.39,0,,0.0,3771.625,0.04,0,11.2,10–20 yrs
+10041,Sales,Area Sales Manager,68829,1,2015-01-05,Fully Meets,Male,2014.0,131071.03,0.0,181996.79,0,,0.0,740.625,2.64,1,10.8,10–20 yrs
+10041,Sales,Area Sales Manager,68829,1,2015-01-05,Fully Meets,Male,2015.0,134063.16,0.0,186080.25,0,0.0,0.0,740.625,2.7,1,10.8,10–20 yrs
+10042,Sales,Area Sales Manager,63695,0,2013-07-08,Fully Meets,Female,2015.0,63695.0,0.0,63695.0,1,,0.0,-4393.375,1.0,0,12.3,10–20 yrs
+10043,IT/IS,Data Analyst,89292,0,2015-03-30,Fully Meets,Female,2015.0,89292.0,0.0,89292.0,1,,0.0,-8637.193548387091,1.0,0,10.6,10–20 yrs
+10044,IT/IS,Network Engineer,75281,1,2015-01-05,Fully Meets,Male,2015.0,8498.25,0.0,13671.55,0,,0.0,-22648.19354838709,0.18,1,10.8,10–20 yrs
+10044,IT/IS,Network Engineer,75281,1,2015-01-05,Fully Meets,Male,2016.0,7805.46,0.0,23028.42,0,0.0,0.0,-22648.19354838709,0.31,1,10.8,10–20 yrs
+10045,IT/IS,Network Engineer,76029,1,2015-03-30,Fully Meets,Male,2014.0,3378.0,0.0,20835.75,0,,0.0,-21900.19354838709,0.27,1,10.6,10–20 yrs
+10046,Production       ,Production Technician I,51044,1,2012-04-02,Fully Meets,Male,2015.0,71370.82,0.0,107104.34,0,,0.0,-8913.984375,2.1,1,13.6,10–20 yrs
+10047,Production       ,Production Technician I,50428,1,2011-01-10,Fully Meets,Male,2015.0,50428.0,0.0,50428.0,1,,0.0,-9529.984375,1.0,1,14.8,10–20 yrs
+10048,Production       ,Production Technician I,55140,1,2011-05-16,Fully Meets,Male,2016.0,17270.65,17.09,27213.1,0,,0.0003099383387740297,-4817.984375,0.49,1,14.4,10–20 yrs
+10049,Production       ,Production Technician I,58530,0,2012-01-09,Fully Meets,Female,2016.0,56775.4,0.0,86142.05,0,,0.0,-1427.984375,1.47,0,13.8,10–20 yrs
+10050,Production       ,Production Technician I,64724,1,2011-07-05,Fully Meets,Male,2015.0,40249.8,3880.03,59687.99,0,,0.05994731475186948,4766.015625,0.92,1,14.3,10–20 yrs
+10051,Production       ,Production Technician I,48285,1,2012-07-02,Fully Meets,Male,2013.0,9600.0,0.0,10358.4,0,,0.0,-11672.984375,0.21,1,13.3,10–20 yrs
+10052,Production       ,Production Technician I,46120,1,2012-07-09,Fully Meets,Male,2013.0,62468.5,8011.94,102543.26,0,,0.1737194275802255,-13837.984375,2.22,1,13.3,10–20 yrs
+10052,Production       ,Production Technician I,46120,1,2012-07-09,Fully Meets,Male,2014.0,61818.01,5752.83,101382.41,0,0.0,0.12473612315698178,-13837.984375,2.2,1,13.3,10–20 yrs
+10052,Production       ,Production Technician I,46120,1,2012-07-09,Fully Meets,Male,2015.0,63210.8,9570.06,107171.57,0,0.0,0.20750346921075455,-13837.984375,2.32,1,13.3,10–20 yrs
+10053,Production       ,Production Technician I,54132,0,2011-05-31,Fully Meets,Female,2015.0,117477.86,117.02,189810.19,0,,0.0021617527525308504,-5825.984375,3.51,0,14.4,10–20 yrs
+10054,Production       ,Production Technician I,60627,0,2014-01-06,Fully Meets,Female,2015.0,60627.0,0.0,60627.0,1,,0.0,669.015625,1.0,0,11.8,10–20 yrs
+10055,Production       ,Production Technician I,59026,0,2011-04-04,Fully Meets,Female,2014.0,47738.41,5632.78,85860.54,0,,0.09542879409073966,-931.984375,1.45,0,14.5,10–20 yrs
+10056,Production       ,Production Technician I,57583,0,2012-07-02,Fully Meets,Female,2015.0,57583.0,0.0,57583.0,1,,0.0,-2374.984375,1.0,0,13.3,10–20 yrs
+10057,Production       ,Production Technician I,52057,0,2015-02-16,Fully Meets,Female,2015.0,106116.0,0.0,149094.71,0,,0.0,-7900.984375,2.86,0,10.7,10–20 yrs
+10058,Production       ,Production Technician I,45115,1,2011-05-16,Fully Meets,Male,2015.0,45115.0,0.0,45115.0,1,,0.0,-14842.984375,1.0,1,14.4,10–20 yrs
+10059,Production       ,Production Technician I,63813,0,2011-02-21,Fully Meets,Female,2013.0,108383.46,4408.61,167048.68,0,,0.06908639305470672,3855.015625,2.62,0,14.7,10–20 yrs
+10059,Production       ,Production Technician I,63813,0,2011-02-21,Fully Meets,Female,2014.0,12942.0,0.0,19581.5,0,0.0,0.0,3855.015625,0.31,0,14.7,10–20 yrs
+10060,Production       ,Production Technician I,60436,0,2014-01-06,Fully Meets,Female,2015.0,60436.0,0.0,60436.0,1,,0.0,478.015625,1.0,0,11.8,10–20 yrs
+10061,Production       ,Production Technician I,57834,1,2011-02-21,Fully Meets,Male,2014.0,88999.55,0.0,129874.12,0,,0.0,-2123.984375,2.25,1,14.7,10–20 yrs
+10061,Production       ,Production Technician I,57834,1,2011-02-21,Fully Meets,Male,2015.0,93499.01,0.0,134832.23,0,0.0,0.0,-2123.984375,2.33,1,14.7,10–20 yrs
+10061,Production       ,Production Technician I,57834,1,2011-02-21,Fully Meets,Male,2016.0,95812.33,0.0,136628.65,0,0.0,0.0,-2123.984375,2.36,1,14.7,10–20 yrs
+10062,Production       ,Production Technician I,59365,1,2013-09-30,Fully Meets,Male,2015.0,59365.0,0.0,59365.0,1,,0.0,-592.984375,1.0,1,12.1,10–20 yrs
+10063,Production       ,Production Technician I,48495,1,2014-05-12,Fully Meets,Male,2015.0,48495.0,0.0,48495.0,1,,0.0,-11462.984375,1.0,1,11.4,10–20 yrs
+10064,Production       ,Production Technician I,60070,0,2011-04-04,Fully Meets,Female,2014.0,101758.09,40798.14,196794.16,0,,0.6791766272681871,112.015625,3.28,0,14.5,10–20 yrs
+10064,Production       ,Production Technician I,60070,0,2011-04-04,Fully Meets,Female,2015.0,108375.2,45950.11,219481.12,0,0.0,0.7649427334776094,112.015625,3.65,0,14.5,10–20 yrs
+10065,Production       ,Production Technician I,53180,1,2011-04-04,Fully Meets,Male,2015.0,181.69,363.38,641.14,0,,0.006833019932305378,-6777.984375,0.01,1,14.5,10–20 yrs
+10066,Production       ,Production Technician I,52505,1,2012-09-24,Fully Meets,Male,2015.0,52505.0,0.0,52505.0,1,,0.0,-7452.984375,1.0,1,13.1,10–20 yrs
+10067,Production       ,Production Technician I,61656,0,2014-09-29,Fully Meets,Female,2015.0,61656.0,0.0,61656.0,1,,0.0,1698.015625,1.0,0,11.1,10–20 yrs
+10068,Production       ,Production Technician I,55688,0,2015-03-30,Fully Meets,Female,2015.0,55688.0,0.0,55688.0,1,,0.0,-4269.984375,1.0,0,10.6,10–20 yrs
+10069,Production       ,Production Technician I,50825,0,2011-07-11,Fully Meets,Female,2015.0,50825.0,0.0,50825.0,1,,0.0,-9132.984375,1.0,0,14.3,10–20 yrs
+10070,Production       ,Production Technician I,55722,1,2011-05-16,Fully Meets,Male,2015.0,55722.0,0.0,55722.0,1,,0.0,-4235.984375,1.0,1,14.4,10–20 yrs
+10071,Production       ,Production Technician I,50923,0,2013-09-30,Fully Meets,Female,2014.0,153162.01,1074.75,210485.63,0,,0.0211053944190248,-9034.984375,4.13,0,12.1,10–20 yrs
+10072,Production       ,Production Technician I,58371,1,2011-01-10,Fully Meets,Male,2013.0,99770.53,0.0,140430.19,0,,0.0,-1586.984375,2.41,1,14.8,10–20 yrs
+10073,Production       ,Production Technician II,68407,0,2011-07-05,Fully Meets,Female,2014.0,16220.18,0.0,26113.13,0,,0.0,8449.015625,0.38,0,14.3,10–20 yrs
+10074,Production       ,Production Technician II,64246,1,2013-11-11,Fully Meets,Male,2016.0,95564.9,0.0,136584.99,0,,0.0,4288.015625,2.13,1,11.9,10–20 yrs
+10075,Production       ,Production Technician II,68099,0,2011-01-10,Fully Meets,Female,2016.0,30219.02,7300.38,59847.07,0,,0.10720245524897576,8141.015625,0.88,0,14.8,10–20 yrs
+10076,Production       ,Production Technician II,55315,0,2015-03-30,Fully Meets,Female,2014.0,15302.36,0.0,23753.78,0,,0.0,-4642.984375,0.43,0,10.6,10–20 yrs
+10077,Production       ,Production Technician II,62385,0,2016-05-11,Fully Meets,Female,2015.0,62385.0,0.0,62385.0,1,,0.0,2427.015625,1.0,0,9.4,5–10 yrs
+10078,Production       ,Production Technician II,71966,0,2012-05-14,Fully Meets,Female,2015.0,71966.0,0.0,71966.0,1,,0.0,12008.015625,1.0,0,13.4,10–20 yrs
+10079,IT/IS,Senior BI Developer,87921,1,2017-02-10,Fully Meets,Male,2015.0,87921.0,0.0,87921.0,1,,0.0,-10008.193548387091,1.0,1,8.7,5–10 yrs
+10080,Admin Offices,Sr. Accountant,99351,0,2009-01-05,Fully Meets,Female,2015.0,190681.51,0.0,282431.31,0,,0.0,30612.181818181823,2.84,0,16.8,10–20 yrs
+10081,Admin Offices,Sr. Accountant,106367,0,2015-02-16,Fully Meets,Female,2015.0,106367.0,0.0,106367.0,1,,0.0,37628.18181818182,1.0,0,10.7,10–20 yrs
+10082,IT/IS,Sr. DBA,100031,0,2016-06-30,Fully Meets,Female,2015.0,100031.0,0.0,100031.0,1,,0.0,2101.806451612909,1.0,0,9.3,5–10 yrs
+10083,IT/IS,Sr. Network Engineer,92329,1,2014-11-10,Fully Meets,Male,2014.0,176331.24,0.0,243361.15,0,,0.0,-5600.193548387091,2.64,1,10.9,10–20 yrs
+10083,IT/IS,Sr. Network Engineer,92329,1,2014-11-10,Fully Meets,Male,2016.0,172476.32,0.0,231795.04,0,0.0,0.0,-5600.193548387091,2.51,1,10.9,10–20 yrs
+10084,IT/IS,Sr. DBA,104437,1,2015-03-30,Fully Meets,Male,2013.0,4298.87,0.0,6738.26,0,,0.0,6507.806451612909,0.06,1,10.6,10–20 yrs
+10085,Software Engineering,Software Engineer,93396,0,2013-11-11,Fully Meets,Female,2015.0,93396.0,0.0,93396.0,1,,0.0,-2050.266666666663,1.0,0,11.9,10–20 yrs
+10086,IT/IS,Data Architect,150290,0,2017-01-07,Fully Meets,Female,2015.0,150290.0,0.0,150290.0,1,,0.0,52360.80645161291,1.0,0,8.8,5–10 yrs
+10087,Production       ,Production Technician I,63676,0,2011-09-26,Fully Meets,Female,2015.0,63676.0,0.0,63676.0,1,,0.0,3718.015625,1.0,0,14.1,10–20 yrs
+10088,Production       ,Production Technician I,64991,0,2008-01-07,Fully Meets,Female,2015.0,64991.0,0.0,64991.0,1,,0.0,5033.015625,1.0,0,17.8,10–20 yrs
+10089,Executive Office,President & CEO,250000,0,2012-07-02,Fully Meets,Female,2016.0,31761.05,1513.58,41128.27,0,,0.006054319999999999,0.0,0.16,0,13.3,10–20 yrs
+10090,Production       ,Production Manager,65714,0,2012-10-02,Fully Meets,Female,2013.0,105513.51,4665.6,154441.01,0,,0.07099856955899808,5756.015625,2.35,0,13.0,10–20 yrs
+10090,Production       ,Production Manager,65714,0,2012-10-02,Fully Meets,Female,2014.0,104451.01,2936.93,154539.27,0,0.0,0.04469260735916243,5756.015625,2.35,0,13.0,10–20 yrs
+10091,Production       ,Production Technician I,52087,0,2013-08-19,Fully Meets,Female,2016.0,1188.25,0.0,1885.27,0,,0.0,-7870.984375,0.04,0,12.2,10–20 yrs
+10092,Production       ,Production Manager,82758,1,2011-01-10,Fully Meets,Male,2015.0,82758.0,0.0,82758.0,1,,0.0,22800.015625,1.0,1,14.8,10–20 yrs
+10093,Production       ,Production Technician II,72609,1,2011-05-16,Fully Meets,Male,2015.0,72609.0,0.0,72609.0,1,,0.0,12651.015625,1.0,1,14.4,10–20 yrs
+10094,Production       ,Production Technician I,63381,0,2015-01-05,Fully Meets,Female,2014.0,65720.41,10958.28,112220.33,0,,0.17289534718606522,3423.015625,1.77,0,10.8,10–20 yrs
+10095,Production       ,Production Technician II,63878,0,2009-10-26,Fully Meets,Female,2013.0,36060.94,0.0,54645.49,0,,0.0,3920.015625,0.86,0,16.0,10–20 yrs
+10095,Production       ,Production Technician II,63878,0,2009-10-26,Fully Meets,Female,2014.0,47448.86,0.0,77994.77,0,0.0,0.0,3920.015625,1.22,0,16.0,10–20 yrs
+10095,Production       ,Production Technician II,63878,0,2009-10-26,Fully Meets,Female,2015.0,33215.51,0.0,50620.02,0,0.0,0.0,3920.015625,0.79,0,16.0,10–20 yrs
+10096,Production       ,Production Technician II,67237,0,2013-07-08,Fully Meets,Female,2013.0,68502.94,13385.75,126538.12,0,,0.19908309412972025,7279.015625,1.88,0,12.3,10–20 yrs
+10096,Production       ,Production Technician II,67237,0,2013-07-08,Fully Meets,Female,2016.0,70935.65,11589.28,124843.17,0,0.0,0.17236462067016672,7279.015625,1.86,0,12.3,10–20 yrs
+10097,Production       ,Production Technician I,52177,0,2012-01-09,Fully Meets,Female,2013.0,13608.7,0.0,18485.04,0,,0.0,-7780.984375,0.35,0,13.8,10–20 yrs
+10098,Production       ,Production Manager,62957,1,2015-06-02,Fully Meets,Male,2014.0,1190.25,0.0,1991.1,0,,0.0,2999.015625,0.03,1,10.4,10–20 yrs
+10099,Sales,Sales Manager,65729,0,2014-05-05,Fully Meets,Female,2015.0,65729.0,0.0,65729.0,1,,0.0,-2359.375,1.0,0,11.5,10–20 yrs
+10100,Production       ,Production Technician II,58275,0,2011-04-04,Fully Meets,Female,2013.0,65727.32,9229.9,117411.19,0,,0.15838524238524238,-1682.984375,2.01,0,14.5,10–20 yrs
+10100,Production       ,Production Technician II,58275,0,2011-04-04,Fully Meets,Female,2015.0,66822.63,8012.69,120419.75,0,0.0,0.1374978978978979,-1682.984375,2.07,0,14.5,10–20 yrs
+10101,IT/IS,IT Support,61242,0,2015-01-05,Fully Meets,Female,2013.0,11668.0,0.0,79673.8,0,,0.0,-36687.19354838709,1.3,0,10.8,10–20 yrs
+10102,Software Engineering,Software Engineer,100416,1,2013-02-18,Fully Meets,Male,2013.0,84367.1,4382.15,117924.27,0,,0.04363995777565328,4969.733333333337,1.17,1,12.7,10–20 yrs
+10102,Software Engineering,Software Engineer,100416,1,2013-02-18,Fully Meets,Male,2014.0,84678.5,6203.13,119286.81,0,0.0,0.06177431883365201,4969.733333333337,1.19,1,12.7,10–20 yrs
+10102,Software Engineering,Software Engineer,100416,1,2013-02-18,Fully Meets,Male,2015.0,87376.0,3924.09,123748.08,0,0.0,0.03907833413001912,4969.733333333337,1.23,1,12.7,10–20 yrs
+10103,Sales,Area Sales Manager,70468,1,2012-04-30,Fully Meets,Male,2015.0,112960.65,0.0,160469.77,0,,0.0,2379.625,2.28,1,13.5,10–20 yrs
+10104,Production       ,Production Technician II,66738,0,2014-11-10,Fully Meets,Female,2015.0,66738.0,0.0,66738.0,1,,0.0,6780.015625,1.0,0,10.9,10–20 yrs
+10105,Production       ,Production Manager,75188,0,2014-09-18,Fully Meets,Female,2015.0,75188.0,0.0,75188.0,1,,0.0,15230.015625,1.0,0,11.1,10–20 yrs
+10106,Production       ,Production Technician II,66074,0,2013-01-07,Fully Meets,Female,2015.0,47495.3,4.84,69651.41,0,,7.325120319641613e-05,6116.015625,1.05,0,12.8,10–20 yrs
+10107,Production       ,Production Technician II,63763,0,2012-03-05,Fully Meets,Female,2016.0,7333.29,0.0,10660.87,0,,0.0,3805.015625,0.17,0,13.6,10–20 yrs
+10108,IT/IS,BI Director,110929,1,2016-09-06,Fully Meets,Male,2015.0,110929.0,0.0,110929.0,1,,0.0,12999.806451612909,1.0,1,9.1,5–10 yrs
+10109,Sales,Area Sales Manager,71707,1,2012-03-07,Fully Meets,Male,2013.0,73062.11,0.0,107194.53,0,,0.0,3618.625,1.49,1,13.6,10–20 yrs
+10109,Sales,Area Sales Manager,71707,1,2012-03-07,Fully Meets,Male,2015.0,74992.2,0.0,109839.45,0,0.0,0.0,3618.625,1.53,1,13.6,10–20 yrs
+10110,Software Engineering,Software Engineer,105688,0,2013-11-11,Fully Meets,Female,2015.0,105688.0,0.0,105688.0,1,,0.0,10241.733333333337,1.0,0,11.9,10–20 yrs
+10111,Production       ,Production Technician I,52249,1,2015-03-30,Fully Meets,Male,2015.0,62325.1,8060.82,102974.23,0,,0.1542770196558786,-7708.984375,1.97,1,10.6,10–20 yrs
+10112,IT/IS,Database Administrator,97999,0,2015-03-30,Fully Meets,Female,2015.0,100465.3,0.0,143702.56,0,,0.0,69.80645161290886,1.47,0,10.6,10–20 yrs
+10113,IT/IS,Sr. Network Engineer,93206,1,2014-11-10,Fully Meets,Male,2013.0,5460.6,0.0,5900.61,0,,0.0,-4723.193548387091,0.06,1,10.9,10–20 yrs
+10114,Production       ,Production Technician I,47837,0,2009-07-06,Fully Meets,Female,2015.0,12021.92,0.0,18314.76,0,,0.0,-12120.984375,0.38,0,16.3,10–20 yrs
+10115,Production       ,Production Technician I,52846,1,2014-03-31,Fully Meets,Male,2015.0,130229.96,46828.49,234759.65,0,,0.8861312114445747,-7111.984375,4.44,1,11.6,10–20 yrs
+10116,Production       ,Production Manager,83667,1,2012-08-16,Fully Meets,Male,2014.0,66054.2,24432.14,138281.56,0,,0.2920164461496169,23709.015625,1.65,1,13.2,10–20 yrs
+10116,Production       ,Production Manager,83667,1,2012-08-16,Fully Meets,Male,2016.0,69985.68,29193.67,145081.42,0,0.0,0.34892693654606954,23709.015625,1.73,1,13.2,10–20 yrs
+10117,Production       ,Production Technician I,63025,1,2015-01-05,Fully Meets,Male,2015.0,63025.0,0.0,63025.0,1,,0.0,3067.015625,1.0,1,10.8,10–20 yrs
+10118,IT/IS,Database Administrator,113999,1,2015-02-16,Fully Meets,Male,2015.0,113999.0,0.0,113999.0,1,,0.0,16069.806451612909,1.0,1,10.7,10–20 yrs
+10119,IT/IS,IT Support,66593,0,2011-06-10,Fully Meets,Female,2014.0,130229.91,54580.84,248559.66,0,,0.8196182781974081,-31336.19354838709,3.73,0,14.4,10–20 yrs
+10120,Production       ,Production Technician II,74417,1,2013-05-13,Fully Meets,Male,2014.0,54703.0,0.0,87279.26,0,,0.0,14459.015625,1.17,1,12.4,10–20 yrs
+10121,Sales,Area Sales Manager,63051,0,2013-09-30,Fully Meets,Female,2015.0,63051.0,0.0,63051.0,1,,0.0,-5037.375,1.0,0,12.1,10–20 yrs
+10122,Production       ,Production Technician I,51505,0,2011-11-07,Fully Meets,Female,2015.0,51505.0,0.0,51505.0,1,,0.0,-8452.984375,1.0,0,14.0,10–20 yrs
+10123,Production       ,Production Technician I,56339,0,2013-02-18,Fully Meets,Female,2016.0,74491.97,0.0,108383.89,0,,0.0,-3618.984375,1.92,0,12.7,10–20 yrs
+10124,Sales,Area Sales Manager,61844,0,2012-01-09,Fully Meets,Female,2014.0,64108.11,0.0,94530.36,0,,0.0,-6244.375,1.53,0,13.8,10–20 yrs
+10124,Sales,Area Sales Manager,61844,0,2012-01-09,Fully Meets,Female,2015.0,69826.49,0.0,101966.5,0,0.0,0.0,-6244.375,1.65,0,13.8,10–20 yrs
+10124,Sales,Area Sales Manager,61844,0,2012-01-09,Fully Meets,Female,2016.0,73410.43,0.0,106100.6,0,0.0,0.0,-6244.375,1.72,0,13.8,10–20 yrs
+10125,Production       ,Production Technician I,54828,0,2011-11-28,Fully Meets,Female,2015.0,54828.0,0.0,54828.0,1,,0.0,-5129.984375,1.0,0,13.9,10–20 yrs
+10126,Software Engineering,Software Engineer,86214,0,2012-11-05,Fully Meets,Female,2013.0,4052.11,0.0,6385.99,0,,0.0,-9232.266666666663,0.07,0,13.0,10–20 yrs
+10127,IT/IS,Sr. Network Engineer,107226,0,2015-03-30,Fully Meets,Female,2015.0,84164.14,501.9,123615.81,0,,0.004680767724245985,9296.806451612909,1.15,0,10.6,10–20 yrs
+10127,IT/IS,Sr. Network Engineer,107226,0,2015-03-30,Fully Meets,Female,2016.0,89557.19,501.9,131576.57,0,0.0,0.004680767724245985,9296.806451612909,1.23,0,10.6,10–20 yrs
+10128,Production       ,Production Technician I,62659,0,2012-04-02,Fully Meets,Female,2014.0,141482.0,0.0,182942.8,0,,0.0,2701.015625,2.92,0,13.6,10–20 yrs
+10128,Production       ,Production Technician I,62659,0,2012-04-02,Fully Meets,Female,2015.0,146775.5,712.38,194876.93,0,0.0,0.011369156864935604,2701.015625,3.11,0,13.6,10–20 yrs
+10129,Production       ,Production Technician I,46998,1,2012-08-13,Fully Meets,Male,2014.0,74041.03,0.0,127571.16,0,,0.0,-12959.984375,2.71,1,13.2,10–20 yrs
+10130,Production       ,Production Manager,74669,0,2010-10-25,Fully Meets,Female,2014.0,116584.0,12084.08,182534.98,0,,0.1618352997897387,14711.015625,2.44,0,15.0,10–20 yrs
+10131,Software Engineering,Software Engineer,83363,1,2011-02-21,Fully Meets,Male,2013.0,5006.71,0.0,8832.93,0,,0.0,-12083.266666666663,0.11,1,14.7,10–20 yrs
+10132,Production       ,Production Technician I,56149,0,2016-07-06,Fully Meets,Female,2015.0,2203.69,165.58,3659.75,0,,0.002948939429019217,-3808.984375,0.07,0,9.3,5–10 yrs
+10133,IT/IS,IT Support,70621,0,2015-01-05,Fully Meets,Female,2014.0,59309.8,0.0,93463.36,0,,0.0,-27308.19354838709,1.32,0,10.8,10–20 yrs
+10133,IT/IS,IT Support,70621,0,2015-01-05,Fully Meets,Female,2016.0,65832.85,114.32,104148.91,0,0.0,0.0016187819487121394,-27308.19354838709,1.47,0,10.8,10–20 yrs
+10134,Admin Offices,Shared Services Manager,93046,1,2016-01-05,Fully Meets,Male,2014.0,39246.3,0.0,59068.0,0,,0.0,24307.181818181823,0.63,1,9.8,5–10 yrs
+10135,Production       ,Production Technician II,65893,1,2014-07-07,Fully Meets,Male,2013.0,11196.19,323.89,19122.63,0,,0.004915393137359052,5935.015625,0.29,1,11.3,10–20 yrs
+10135,Production       ,Production Technician II,65893,1,2014-07-07,Fully Meets,Male,2015.0,50462.05,2836.48,87629.09,0,0.0,0.043046757622205695,5935.015625,1.33,1,11.3,10–20 yrs
+10136,Production       ,Production Technician II,65902,0,2014-02-17,Fully Meets,Female,2015.0,65902.0,0.0,65902.0,1,,0.0,5944.015625,1.0,0,11.7,10–20 yrs
+10137,Production       ,Production Technician II,63450,1,2013-07-08,Fully Meets,Male,2015.0,63450.0,0.0,63450.0,1,,0.0,3492.015625,1.0,1,12.3,10–20 yrs
+10138,Production       ,Production Technician I,61154,0,2011-01-10,Fully Meets,Female,2015.0,61154.0,0.0,61154.0,1,,0.0,1196.015625,1.0,0,14.8,10–20 yrs
+10139,Production       ,Production Technician I,51908,0,2013-08-19,Fully Meets,Female,2015.0,97770.73,21191.9,169309.95,0,,0.4082588425676197,-8049.984375,3.26,0,12.2,10–20 yrs
+10140,Sales,Area Sales Manager,61809,1,2014-05-12,Fully Meets,Male,2015.0,7097.72,0.0,16232.09,0,,0.0,-6279.375,0.26,1,11.4,10–20 yrs
+10140,Sales,Area Sales Manager,61809,1,2014-05-12,Fully Meets,Male,2016.0,0.0,0.0,3656.68,0,0.0,0.0,-6279.375,0.06,1,11.4,10–20 yrs
+10141,Production       ,Production Technician I,48413,0,2011-07-05,Fully Meets,Female,2013.0,32355.04,7940.39,53436.48,0,,0.16401359139074217,-11544.984375,1.1,0,14.3,10–20 yrs
+10141,Production       ,Production Technician I,48413,0,2011-07-05,Fully Meets,Female,2016.0,118320.31,26669.83,194110.71,0,0.0,0.5508815813934275,-11544.984375,4.01,0,14.3,10–20 yrs
+10142,Sales,Area Sales Manager,59370,0,2014-07-07,Fully Meets,Female,2013.0,112889.81,66837.4,237261.44,0,,1.1257773286171466,-8718.375,4.0,0,11.3,10–20 yrs
+10143,Production       ,Production Technician II,56294,1,2011-11-07,Fully Meets,Male,2015.0,56294.0,0.0,56294.0,1,,0.0,-3663.984375,1.0,1,14.0,10–20 yrs
+10144,Production       ,Production Manager,88976,1,2011-08-01,Fully Meets,Male,2013.0,117000.0,675.0,166577.15,0,,0.00758631541089732,29018.015625,1.87,1,14.2,10–20 yrs
+10144,Production       ,Production Manager,88976,1,2011-08-01,Fully Meets,Male,2016.0,128309.4,11635.37,194435.17,0,0.0,0.1307697581370257,29018.015625,2.19,1,14.2,10–20 yrs
+10145,Production       ,Production Technician I,62810,0,2013-01-07,Fully Meets,Female,2014.0,12657.96,0.0,20044.69,0,,0.0,2852.015625,0.32,0,12.8,10–20 yrs
+10145,Production       ,Production Technician I,62810,0,2013-01-07,Fully Meets,Female,2015.0,8819.49,0.0,14182.64,0,0.0,0.0,2852.015625,0.23,0,12.8,10–20 yrs
+10146,Production       ,Production Technician II,72202,0,2011-05-16,Fully Meets,Female,2015.0,72202.0,0.0,72202.0,1,,0.0,12244.015625,1.0,0,14.4,10–20 yrs
+10147,Admin Offices,Accountant I,63003,1,2014-09-29,Fully Meets,Male,2015.0,63003.0,0.0,63003.0,1,,0.0,-5735.8181818181765,1.0,1,11.1,10–20 yrs
+10148,Production       ,Production Technician I,63515,0,2011-02-07,Fully Meets,Female,2014.0,62967.1,12941.18,114370.24,0,,0.20374998031960956,3557.015625,1.8,0,14.7,10–20 yrs
+10149,IT/IS,Principal Data Architect,120000,0,2015-01-05,Fully Meets,Female,2015.0,120000.0,0.0,120000.0,1,,0.0,22070.80645161291,1.0,0,10.8,10–20 yrs
+10150,Software Engineering,Software Engineering Manager,77692,1,2011-08-15,Fully Meets,Male,2015.0,97527.49,19594.96,167822.79,0,,0.252213355300417,-17754.266666666663,2.16,1,14.2,10–20 yrs
+10151,IT/IS,Network Engineer,52599,0,2015-02-16,Fully Meets,Female,2015.0,52599.0,0.0,52599.0,1,,0.0,-45330.19354838709,1.0,0,10.7,10–20 yrs
+10152,Production       ,Production Technician I,61729,1,2011-09-26,Fully Meets,Male,2015.0,51047.38,0.0,79057.0,0,,0.0,1771.015625,1.28,1,14.1,10–20 yrs
+10153,Admin Offices,Administrative Assistant,55000,0,2011-09-26,Fully Meets,Female,2013.0,65832.76,5226.09,111974.15,0,,0.09501981818181819,-13738.818181818177,2.04,0,14.1,10–20 yrs
+10153,Admin Offices,Administrative Assistant,55000,0,2011-09-26,Fully Meets,Female,2015.0,29440.8,7980.22,53482.16,0,0.0,0.1450949090909091,-13738.818181818177,0.97,0,14.1,10–20 yrs
+10153,Admin Offices,Administrative Assistant,55000,0,2011-09-26,Fully Meets,Female,2016.0,74304.91,17549.35,130617.09,0,0.0,0.31907909090909087,-13738.818181818177,2.37,0,14.1,10–20 yrs
+10154,Production       ,Production Technician I,60380,1,2013-07-08,Fully Meets,Male,2013.0,59878.01,1576.11,92514.26,0,,0.026103179860881086,422.015625,1.53,1,12.3,10–20 yrs
+10154,Production       ,Production Technician I,60380,1,2013-07-08,Fully Meets,Male,2014.0,61818.02,1220.0,97550.98,0,0.0,0.020205366015236835,422.015625,1.62,1,12.3,10–20 yrs
+10155,Software Engineering,Software Engineer,101199,0,2012-01-09,Fully Meets,Female,2015.0,100942.5,0.0,138119.34,0,,0.0,5752.733333333337,1.36,0,13.8,10–20 yrs
+10156,IT/IS,Database Administrator,105700,0,2015-01-05,Fully Meets,Female,2015.0,105700.0,0.0,105700.0,1,,0.0,7770.806451612909,1.0,0,10.8,10–20 yrs
+10157,Production       ,Production Technician I,58939,0,2013-11-11,Fully Meets,Female,2015.0,72476.76,1979.53,110070.47,0,,0.03358608052393152,-1018.984375,1.87,0,11.9,10–20 yrs
+10158,Production       ,Production Manager,63682,0,2009-01-08,Fully Meets,Female,2015.0,63682.0,0.0,63682.0,1,,0.0,3724.015625,1.0,0,16.8,10–20 yrs
+10159,Production       ,Production Technician I,51337,0,2015-03-30,Fully Meets,Female,2015.0,65794.23,31121.02,140720.3,0,,0.6062103356253774,-8620.984375,2.74,0,10.6,10–20 yrs
+10160,Production       ,Production Technician II,68182,0,2011-02-21,Fully Meets,Female,2015.0,68182.0,0.0,68182.0,1,,0.0,8224.015625,1.0,0,14.7,10–20 yrs
+10161,Sales,Area Sales Manager,58370,0,2014-09-29,Fully Meets,Female,2013.0,119469.91,49512.49,218836.72,0,,0.8482523556621552,-9718.375,3.75,0,11.1,10–20 yrs
+10161,Sales,Area Sales Manager,58370,0,2014-09-29,Fully Meets,Female,2014.0,116611.64,52745.26,217354.59,0,0.0,0.9036364570841185,-9718.375,3.72,0,11.1,10–20 yrs
+10162,IT/IS,Data Analyst,89883,0,2015-02-16,Fully Meets,Female,2013.0,85185.01,0.0,121887.68,0,,0.0,-8046.193548387091,1.36,0,10.7,10–20 yrs
+10163,Production       ,Production Technician II,55965,0,2011-04-04,Fully Meets,Female,2015.0,84644.01,19002.9,146470.76,0,,0.3395497185741088,-3992.984375,2.62,0,14.5,10–20 yrs
+10164,Production       ,Production Technician I,47001,1,2007-11-05,Fully Meets,Male,2015.0,47001.0,0.0,47001.0,1,,0.0,-12956.984375,1.0,1,18.0,10–20 yrs
+10165,Sales,Area Sales Manager,71339,1,2011-03-07,Fully Meets,Male,2016.0,55415.21,348.28,87573.09,0,,0.004882042080769284,3250.625,1.23,1,14.6,10–20 yrs
+10166,Production       ,Production Technician I,54005,0,2011-09-26,Fully Meets,Female,2016.0,5308.0,0.0,7980.89,0,,0.0,-5952.984375,0.15,0,14.1,10–20 yrs
+10167,Sales,Area Sales Manager,70545,1,2014-08-18,Fully Meets,Male,2015.0,70545.0,0.0,70545.0,1,,0.0,2456.625,1.0,1,11.2,10–20 yrs
+10168,Production       ,Production Technician I,64816,0,2011-10-03,Fully Meets,Female,2015.0,25306.78,0.0,33898.05,0,,0.0,4858.015625,0.52,0,14.0,10–20 yrs
+10169,Production       ,Production Technician I,56147,0,2014-09-29,Fully Meets,Female,2015.0,91358.62,0.0,131373.5,0,,0.0,-3810.984375,2.34,0,11.1,10–20 yrs
+10169,Production       ,Production Technician I,56147,0,2014-09-29,Fully Meets,Female,2016.0,162574.97,0.0,232643.51,0,0.0,0.0,-3810.984375,4.14,0,11.1,10–20 yrs
+10170,Production       ,Production Technician I,45433,0,2011-09-26,Fully Meets,Female,2013.0,950.0,0.0,1103.77,0,,0.0,-14524.984375,0.02,0,14.1,10–20 yrs
+10170,Production       ,Production Technician I,45433,0,2011-09-26,Fully Meets,Female,2014.0,1381.23,0.0,1610.26,0,0.0,0.0,-14524.984375,0.04,0,14.1,10–20 yrs
+10171,Production       ,Production Technician I,45998,0,2011-05-16,Fully Meets,Female,2015.0,96318.92,266.37,144172.88,0,,0.005790903952345754,-13959.984375,3.13,0,14.4,10–20 yrs
+10172,IT/IS,Senior BI Developer,84903,1,2017-02-15,Fully Meets,Male,2013.0,116956.71,53472.69,233808.48,0,,0.6298091940214127,-13026.193548387091,2.75,1,8.7,5–10 yrs
+10173,IT/IS,BI Developer,90100,1,2017-04-20,Fully Meets,Male,2015.0,184262.02,0.0,259508.52,0,,0.0,-7829.193548387091,2.88,1,8.5,5–10 yrs
+10174,Production       ,Production Technician II,60446,0,2014-09-29,Fully Meets,Female,2015.0,60446.0,0.0,60446.0,1,,0.0,488.015625,1.0,0,11.1,10–20 yrs
+10175,Production       ,Production Manager,74312,1,2013-09-30,Fully Meets,Male,2014.0,109666.06,12432.9,180438.19,0,,0.1673067606846808,14354.015625,2.43,1,12.1,10–20 yrs
+10175,Production       ,Production Manager,74312,1,2013-09-30,Fully Meets,Male,2016.0,116140.15,38509.67,212300.66,0,0.0,0.5182160350952739,14354.015625,2.86,1,12.1,10–20 yrs
+10176,Production       ,Production Technician I,63973,1,2011-01-10,Fully Meets,Male,2015.0,9913.83,1263.52,14310.82,0,,0.01975083238241133,4015.015625,0.22,1,14.8,10–20 yrs
+10177,Production       ,Production Technician I,53492,0,2012-04-02,Fully Meets,Female,2015.0,53492.0,0.0,53492.0,1,,0.0,-6465.984375,1.0,0,13.6,10–20 yrs
+10178,IT/IS,Data Analyst,87826,1,2015-01-05,Fully Meets,Male,2015.0,5734.16,0.0,10892.39,0,,0.0,-10103.193548387091,0.12,1,10.8,10–20 yrs
+10179,IT/IS,Network Engineer,50750,0,2014-09-30,Fully Meets,Female,2016.0,113826.78,26213.3,184386.11,0,,0.5165182266009852,-47179.19354838709,3.63,0,11.1,10–20 yrs
+10180,IT/IS,Sr. Network Engineer,87565,1,2016-06-30,Fully Meets,Male,2015.0,37969.5,0.0,52527.72,0,,0.0,-10364.193548387091,0.6,1,9.3,5–10 yrs
+10181,Production       ,Production Technician II,62162,1,2011-04-04,Fully Meets,Male,2015.0,2358.23,0.0,3102.3,0,,0.0,2204.015625,0.05,1,14.5,10–20 yrs
+10182,Admin Offices,Administrative Assistant,49920,0,2015-02-16,Fully Meets,Female,2015.0,49920.0,0.0,49920.0,1,,0.0,-18818.818181818177,1.0,0,10.7,10–20 yrs
+10183,Production       ,Production Technician I,62068,0,2015-07-05,Fully Meets,Female,2014.0,22372.82,1133.45,30589.29,0,,0.018261422955468197,2110.015625,0.49,0,10.3,10–20 yrs
+10183,Production       ,Production Technician I,62068,0,2015-07-05,Fully Meets,Female,2016.0,53403.53,98.15,71968.5,0,0.0,0.0015813301540246183,2110.015625,1.16,0,10.3,10–20 yrs
+10184,Production       ,Production Technician II,65288,1,2014-09-29,Fully Meets,Male,2016.0,5527.37,0.0,7374.4,0,,0.0,5330.015625,0.11,1,11.1,10–20 yrs
+10185,Production       ,Production Technician I,46664,1,2013-04-01,Fully Meets,Male,2014.0,49477.0,0.0,78498.34,0,,0.0,-13293.984375,1.68,1,12.6,10–20 yrs
+10186,Production       ,Production Technician I,52624,0,2011-07-05,Fully Meets,Female,2013.0,1090.95,0.0,1718.7,0,,0.0,-7333.984375,0.03,0,14.3,10–20 yrs
+10187,Production       ,Production Technician I,46799,0,2011-05-16,Fully Meets,Female,2015.0,97934.01,3341.84,144412.65,0,,0.07140836342656895,-13158.984375,3.09,0,14.4,10–20 yrs
+10188,Sales,Area Sales Manager,74326,0,2011-08-15,Fully Meets,Female,2015.0,74326.0,0.0,74326.0,1,,0.0,6237.625,1.0,0,14.2,10–20 yrs
+10189,Production       ,Production Technician I,57748,0,2011-11-07,Fully Meets,Female,2013.0,50191.36,0.0,79140.67,0,,0.0,-2209.984375,1.37,0,14.0,10–20 yrs
+10190,Production       ,Production Technician II,66541,1,2014-08-18,Fully Meets,Male,2013.0,155174.49,57833.85,291740.98,0,,0.8691460903803669,6583.015625,4.38,1,11.2,10–20 yrs
+10191,Production       ,Production Technician I,52788,1,2012-09-24,Fully Meets,Male,2015.0,52788.0,0.0,52788.0,1,,0.0,-7169.984375,1.0,1,13.1,10–20 yrs
+10192,Production       ,Production Technician I,50482,1,2013-09-30,Fully Meets,Male,2013.0,145822.77,0.0,196876.95,0,,0.0,-9475.984375,3.9,1,12.1,10–20 yrs
+10192,Production       ,Production Technician I,50482,1,2013-09-30,Fully Meets,Male,2014.0,141821.55,0.0,198713.22,0,0.0,0.0,-9475.984375,3.94,1,12.1,10–20 yrs
+10193,IT/IS,Data Analyst,83552,1,2015-03-30,Fully Meets,Male,2015.0,83552.0,0.0,83552.0,1,,0.0,-14377.193548387091,1.0,1,10.6,10–20 yrs
+10194,Software Engineering,Software Engineer,95660,0,2014-11-10,Fully Meets,Female,2014.0,9728.32,0.0,13574.28,0,,0.0,213.7333333333372,0.14,0,10.9,10–20 yrs
+10195,Production       ,Production Technician II,63478,0,2011-08-15,Fully Meets,Female,2015.0,5331.1,0.0,6846.02,0,,0.0,3520.015625,0.11,0,14.2,10–20 yrs
+10196,Production       ,Production Technician II,64955,0,2011-07-05,Fully Meets,Female,2013.0,623.4,0.0,967.1,0,,0.0,4997.015625,0.01,0,14.3,10–20 yrs
+10197,IT/IS,BI Developer,96820,1,2017-02-15,Fully Meets,Male,2015.0,96820.0,0.0,96820.0,1,,0.0,-1109.1935483870911,1.0,1,8.7,5–10 yrs
+10198,IT/IS,IT Manager - DB,140920,1,2013-01-20,Fully Meets,Male,2013.0,116956.68,14445.58,206689.28,0,,0.10250908316775476,42990.80645161291,1.47,1,12.7,10–20 yrs
+10198,IT/IS,IT Manager - DB,140920,1,2013-01-20,Fully Meets,Male,2015.0,112159.76,8740.27,188192.54,0,0.0,0.06202292080613114,42990.80645161291,1.34,1,12.7,10–20 yrs
+10198,IT/IS,IT Manager - DB,140920,1,2013-01-20,Fully Meets,Male,2016.0,66721.98,5428.27,110970.53,0,0.0,0.03852022424070395,42990.80645161291,0.79,1,12.7,10–20 yrs
+10199,IT/IS,Enterprise Architect,103613,1,2014-02-17,Fully Meets,Male,2015.0,103613.0,0.0,103613.0,1,,0.0,5683.806451612909,1.0,1,11.7,10–20 yrs
+10200,Sales,Area Sales Manager,66808,1,2012-05-14,Fully Meets,Male,2015.0,66808.0,0.0,66808.0,1,,0.0,-1280.375,1.0,1,13.4,10–20 yrs
+10201,Production       ,Production Technician II,69340,0,2016-06-06,Fully Meets,Female,2015.0,69340.0,0.0,69340.0,1,,0.0,9382.015625,1.0,0,9.4,5–10 yrs
+10202,Sales,Area Sales Manager,63291,1,2016-07-06,Fully Meets,Male,2015.0,63291.0,0.0,63291.0,1,,0.0,-4797.375,1.0,1,9.3,5–10 yrs
+10203,Production       ,Production Technician I,64375,0,2013-11-11,Fully Meets,Female,2015.0,575.75,0.0,901.7,0,,0.0,4417.015625,0.01,0,11.9,10–20 yrs
+10203,Production       ,Production Technician I,64375,0,2013-11-11,Fully Meets,Female,2016.0,980.01,0.0,1554.95,0,0.0,0.0,4417.015625,0.02,0,11.9,10–20 yrs
+10204,Production       ,Production Technician I,58062,0,2011-01-10,Fully Meets,Female,2013.0,135165.36,0.0,190904.14,0,,0.0,-1895.984375,3.29,0,14.8,10–20 yrs
+10204,Production       ,Production Technician I,58062,0,2011-01-10,Fully Meets,Female,2014.0,60480.37,0.0,85047.49,0,0.0,0.0,-1895.984375,1.46,0,14.8,10–20 yrs
+10204,Production       ,Production Technician I,58062,0,2011-01-10,Fully Meets,Female,2015.0,12435.46,0.0,18012.4,0,0.0,0.0,-1895.984375,0.31,0,14.8,10–20 yrs
+10205,Sales,Area Sales Manager,57859,0,2011-07-05,Fully Meets,Female,2014.0,92768.06,0.0,142756.21,0,,0.0,-10229.375,2.47,0,14.3,10–20 yrs
+10205,Sales,Area Sales Manager,57859,0,2011-07-05,Fully Meets,Female,2016.0,105838.36,0.0,155484.66,0,0.0,0.0,-10229.375,2.69,0,14.3,10–20 yrs
+10206,Production       ,Production Technician I,62061,0,2013-07-08,Fully Meets,Female,2014.0,4812.0,0.0,7232.47,0,,0.0,2103.015625,0.12,0,12.3,10–20 yrs
+10207,Production       ,Production Technician I,46335,0,2012-04-02,Fully Meets,Female,2015.0,232836.47,450.4,302115.76,0,,0.009720513650588108,-13622.984375,6.52,0,13.6,10–20 yrs
+10208,Production       ,Production Technician I,46654,1,2014-02-17,Fully Meets,Male,2015.0,46654.0,0.0,46654.0,1,,0.0,-13303.984375,1.0,1,11.7,10–20 yrs
+10209,Production       ,Production Technician I,59238,0,2012-05-14,Fully Meets,Female,2014.0,21148.3,0.0,31554.63,0,,0.0,-719.984375,0.53,0,13.4,10–20 yrs
+10209,Production       ,Production Technician I,59238,0,2012-05-14,Fully Meets,Female,2015.0,69604.0,0.0,99078.15,0,0.0,0.0,-719.984375,1.67,0,13.4,10–20 yrs
+10210,Production       ,Production Technician I,54237,0,2014-05-12,Fully Meets,Female,2015.0,54237.0,0.0,54237.0,1,,0.0,-5720.984375,1.0,0,11.4,10–20 yrs
+10211,Production       ,Production Technician I,62514,0,2010-04-26,Fully Meets,Female,2015.0,62514.0,0.0,62514.0,1,,0.0,2556.015625,1.0,0,15.5,10–20 yrs
+10212,IT/IS,Sr. Network Engineer,85028,0,2014-11-10,Fully Meets,Female,2016.0,111608.6,0.0,157038.13,0,,0.0,-12901.193548387091,1.85,0,10.9,10–20 yrs
+10213,Production       ,Production Technician II,58207,1,2011-11-07,Fully Meets,Male,2014.0,111063.26,3715.27,166880.04,0,,0.06382857731887917,-1750.984375,2.87,1,14.0,10–20 yrs
+10214,Production       ,Production Technician II,64995,0,2015-06-05,Fully Meets,Female,2015.0,64995.0,0.0,64995.0,1,,0.0,5037.015625,1.0,0,10.4,10–20 yrs
+10215,Production       ,Production Technician I,50470,1,2011-09-26,Fully Meets,Male,2015.0,50470.0,0.0,50470.0,1,,0.0,-9487.984375,1.0,1,14.1,10–20 yrs
+10216,Production       ,Production Technician I,57575,1,2013-07-08,Fully Meets,Male,2015.0,57575.0,0.0,57575.0,1,,0.0,-2382.984375,1.0,1,12.3,10–20 yrs
+10217,Production       ,Production Technician II,74226,0,2012-04-02,Fully Meets,Female,2016.0,69580.26,0.0,102883.88,0,,0.0,14268.015625,1.39,0,13.6,10–20 yrs
+10218,Production       ,Production Technician II,66149,0,2013-09-30,Fully Meets,Female,2016.0,64778.24,464.06,83922.73,0,,0.007015374382076826,6191.015625,1.27,0,12.1,10–20 yrs
+10219,Production       ,Production Technician I,45395,0,2014-01-06,Fully Meets,Female,2015.0,45395.0,0.0,45395.0,1,,0.0,-14562.984375,1.0,0,11.8,10–20 yrs
+10220,IT/IS,IT Support,68678,1,2012-09-05,Fully Meets,Male,2015.0,344.13,0.0,484.33,0,,0.0,-29251.19354838709,0.01,1,13.1,10–20 yrs
+10221,Production       ,Production Technician I,60754,0,2009-04-27,Fully Meets,Female,2015.0,60754.0,0.0,60754.0,1,,0.0,796.015625,1.0,0,16.5,10–20 yrs
+10222,IT/IS,IT Manager - DB,148999,1,2012-01-09,Fully Meets,Male,2015.0,148999.0,0.0,148999.0,1,,0.0,51069.80645161291,1.0,1,13.8,10–20 yrs
+10223,Production       ,Production Technician II,72106,1,2012-01-09,Fully Meets,Male,2013.0,141862.72,0.0,191858.4,0,,0.0,12148.015625,2.66,1,13.8,10–20 yrs
+10224,Production       ,Production Technician II,55578,1,2011-07-05,Fully Meets,Male,2015.0,55578.0,0.0,55578.0,1,,0.0,-4379.984375,1.0,1,14.3,10–20 yrs
+10225,Production       ,Production Technician I,59472,1,2014-01-06,Fully Meets,Male,2013.0,51428.91,0.0,76766.11,0,,0.0,-485.984375,1.29,1,11.8,10–20 yrs
+10225,Production       ,Production Technician I,59472,1,2014-01-06,Fully Meets,Male,2014.0,51617.88,0.0,78075.71,0,0.0,0.0,-485.984375,1.31,1,11.8,10–20 yrs
+10226,Production       ,Production Technician I,64919,0,2013-08-19,Fully Meets,Female,2015.0,26092.2,591.9,43603.04,0,,0.009117515673377593,4961.015625,0.67,0,12.2,10–20 yrs
+10227,Production       ,Production Technician I,61242,0,2012-11-05,Fully Meets,Female,2015.0,61242.0,0.0,61242.0,1,,0.0,1284.015625,1.0,0,13.0,10–20 yrs
+10228,IT/IS,IT Support,74679,1,2015-03-30,Fully Meets,Male,2015.0,44714.55,11119.9,83054.65,0,,0.1489026366180586,-23250.19354838709,1.11,1,10.6,10–20 yrs
+10229,IT/IS,Data Analyst ,88527,1,2015-01-05,Fully Meets,Male,2013.0,82728.07,0.0,119378.61,0,,0.0,-9402.193548387091,1.35,1,10.8,10–20 yrs
+10230,Production       ,Production Technician II,64971,0,2011-09-26,Fully Meets,Female,2013.0,95570.47,0.0,135437.59,0,,0.0,5013.015625,2.08,0,14.1,10–20 yrs
+10231,Sales,Area Sales Manager,65310,1,2013-08-19,Fully Meets,Male,2015.0,65310.0,0.0,65310.0,1,,0.0,-2778.375,1.0,1,12.2,10–20 yrs
+10232,IT/IS,Senior BI Developer,81584,0,2016-10-02,Fully Meets,Female,2013.0,49441.75,10317.96,93551.69,0,,0.12647038635026475,-16345.193548387091,1.15,0,9.0,5–10 yrs
+10233,Production       ,Production Technician II,57975,1,2010-08-30,Fully Meets,Male,2015.0,57975.0,0.0,57975.0,1,,0.0,-1982.984375,1.0,1,15.1,10–20 yrs
+10234,IT/IS,BI Developer,99020,1,2017-04-20,Fully Meets,Male,2013.0,132412.76,20422.61,215424.01,0,,0.20624732377297517,1090.8064516129089,2.18,1,8.5,5–10 yrs
+10234,IT/IS,BI Developer,99020,1,2017-04-20,Fully Meets,Male,2014.0,130961.03,13116.82,210626.23,0,0.0,0.1324663704302161,1090.8064516129089,2.13,1,8.5,5–10 yrs
+10235,Production       ,Production Technician I,54285,1,2014-03-31,Fully Meets,Male,2013.0,58184.45,0.0,83402.09,0,,0.0,-5672.984375,1.54,1,11.6,10–20 yrs
+10235,Production       ,Production Technician I,54285,1,2014-03-31,Fully Meets,Male,2015.0,0.0,0.0,1996.08,0,0.0,0.0,-5672.984375,0.04,1,11.6,10–20 yrs
+10236,Production       ,Production Technician I,45069,0,2013-09-30,Fully Meets,Female,2015.0,55053.8,0.0,85001.43,0,,0.0,-14888.984375,1.89,0,12.1,10–20 yrs
+10237,Production       ,Production Technician II,66825,0,2014-05-12,Fully Meets,Female,2014.0,71066.0,0.0,106799.8,0,,0.0,6867.015625,1.6,0,11.4,10–20 yrs
+10238,Admin Offices,Accountant I,63000,0,2008-10-27,Fully Meets,Female,2015.0,63000.0,0.0,63000.0,1,,0.0,-5738.8181818181765,1.0,0,17.0,10–20 yrs
+10239,IT/IS,BI Developer,95920,0,2016-10-02,Fully Meets,Female,2013.0,56628.02,68.81,91329.3,0,,0.0007173686405337782,-2009.1935483870911,0.95,0,9.0,5–10 yrs
+10239,IT/IS,BI Developer,95920,0,2016-10-02,Fully Meets,Female,2014.0,58437.0,0.0,99371.57,0,0.0,0.0,-2009.1935483870911,1.04,0,9.0,5–10 yrs
+10239,IT/IS,BI Developer,95920,0,2016-10-02,Fully Meets,Female,2015.0,59769.1,0.0,99576.39,0,0.0,0.0,-2009.1935483870911,1.04,0,9.0,5–10 yrs
+10240,Production       ,Production Technician I,64786,0,2011-06-27,Fully Meets,Female,2013.0,68391.0,47.79,102255.06,0,,0.0007376593708517272,4828.015625,1.58,0,14.3,10–20 yrs
+10240,Production       ,Production Technician I,64786,0,2011-06-27,Fully Meets,Female,2014.0,67923.79,0.0,104188.48,0,0.0,0.0,4828.015625,1.61,0,14.3,10–20 yrs
+10241,Sales,Area Sales Manager,60120,0,2010-09-27,Fully Meets,Female,2015.0,60120.0,0.0,60120.0,1,,0.0,-7968.375,1.0,0,15.1,10–20 yrs
+10242,Production       ,Production Technician I,47211,1,2012-04-02,Fully Meets,Male,2015.0,47211.0,0.0,47211.0,1,,0.0,-12746.984375,1.0,1,13.6,10–20 yrs
+10243,Production       ,Production Technician I,53018,0,2013-11-11,Fully Meets,Female,2016.0,84948.31,988.51,122675.72,0,,0.01864479987928628,-6939.984375,2.31,0,11.9,10–20 yrs
+10244,Sales,Sales Manager,68999,0,2011-11-07,Fully Meets,Female,2016.0,13536.1,545.64,22984.99,0,,0.007907940694792679,910.625,0.33,0,14.0,10–20 yrs
+10245,IT/IS,Database Administrator,110000,0,2014-07-07,Fully Meets,Female,2015.0,110000.0,0.0,110000.0,1,,0.0,12070.806451612909,1.0,0,11.3,10–20 yrs
+10246,IT/IS,Database Administrator,114800,0,2015-02-16,Fully Meets,Female,2013.0,87701.68,0.0,123865.24,0,,0.0,16870.80645161291,1.08,0,10.7,10–20 yrs
+10246,IT/IS,Database Administrator,114800,0,2015-02-16,Fully Meets,Female,2015.0,96254.01,0.0,136102.85,0,0.0,0.0,16870.80645161291,1.19,0,10.7,10–20 yrs
+10247,Production       ,Production Technician I,48888,1,2014-11-10,Fully Meets,Male,2013.0,119.1,0.0,171.4,0,,0.0,-11069.984375,0.0,1,10.9,10–20 yrs
+10248,Production       ,Production Technician I,55425,0,2012-02-20,Fully Meets,Female,2013.0,30640.0,0.0,64371.6,0,,0.0,-4532.984375,1.16,0,13.7,10–20 yrs
+10249,Production       ,Production Technician II,61962,1,2012-04-02,Fully Meets,Male,2014.0,1343.22,0.0,1825.47,0,,0.0,2004.015625,0.03,1,13.6,10–20 yrs
+10250,IT/IS,IT Support,50178,1,2015-01-05,Fully Meets,Male,2015.0,99654.02,0.0,134966.87,0,,0.0,-47751.19354838709,2.69,1,10.8,10–20 yrs
+10251,Production       ,Production Technician I,64738,1,2012-05-14,Fully Meets,Male,2015.0,64738.0,0.0,64738.0,1,,0.0,4780.015625,1.0,1,13.4,10–20 yrs
+10252,Production       ,Production Technician I,54670,0,2011-01-10,Fully Meets,Female,2015.0,54670.0,0.0,54670.0,1,,0.0,-5287.984375,1.0,0,14.8,10–20 yrs
+10253,Sales,Area Sales Manager,55875,1,2012-03-05,Fully Meets,Male,2015.0,55875.0,0.0,55875.0,1,,0.0,-12213.375,1.0,1,13.6,10–20 yrs
+10254,Production       ,Production Technician I,63430,0,2013-04-01,Fully Meets,Female,2013.0,65448.06,24502.21,138430.08,0,,0.3862874034368595,3472.015625,2.18,0,12.6,10–20 yrs
+10254,Production       ,Production Technician I,63430,0,2013-04-01,Fully Meets,Female,2016.0,67206.51,13780.5,124733.2,0,0.0,0.21725524199905408,3472.015625,1.97,0,12.6,10–20 yrs
+10255,Sales,Area Sales Manager,61555,0,2015-02-16,Fully Meets,Female,2015.0,132530.25,2346.12,140573.95,0,,0.03811420680692064,-6533.375,2.28,0,10.7,10–20 yrs
+10256,Production       ,Production Technician I,49256,0,2013-08-19,Fully Meets,Female,2015.0,49256.0,0.0,49256.0,1,,0.0,-10701.984375,1.0,0,12.2,10–20 yrs
+10257,Production       ,Production Technician I,53171,0,2011-05-16,Fully Meets,Female,2015.0,53171.0,0.0,53171.0,1,,0.0,-6786.984375,1.0,0,14.4,10–20 yrs
+10258,Sales,Area Sales Manager,67251,1,2011-09-06,Fully Meets,Male,2016.0,21876.68,0.0,30295.17,0,,0.0,-837.375,0.45,1,14.1,10–20 yrs
+10259,IT/IS,Data Analyst,93093,1,2014-12-01,Fully Meets,Male,2013.0,30276.0,0.0,53494.8,0,,0.0,-4836.193548387091,0.57,1,10.9,10–20 yrs
+10259,IT/IS,Data Analyst,93093,1,2014-12-01,Fully Meets,Male,2014.0,21423.0,0.0,33237.77,0,0.0,0.0,-4836.193548387091,0.36,1,10.9,10–20 yrs
+10260,Production       ,Production Technician I,46428,1,2009-01-05,Fully Meets,Male,2015.0,43987.32,2521.46,75211.54,0,,0.05430903764969415,-13529.984375,1.62,1,16.8,10–20 yrs
+10261,Production       ,Production Technician I,63108,1,2013-07-08,Fully Meets,Male,2015.0,63108.0,0.0,63108.0,1,,0.0,3150.015625,1.0,1,12.3,10–20 yrs
+10262,Production       ,Production Technician I,46430,0,2012-09-24,Fully Meets,Female,2015.0,97934.03,2462.53,142968.24,0,,0.05303747576997631,-13527.984375,3.08,0,13.1,10–20 yrs
+10263,Production       ,Production Technician II,71776,0,2014-07-07,Fully Meets,Female,2014.0,42182.06,5191.12,67597.94,0,,0.07232389656709763,11818.015625,0.94,0,11.3,10–20 yrs
+10263,Production       ,Production Technician II,71776,0,2014-07-07,Fully Meets,Female,2015.0,101733.0,1318.1,155147.7,0,0.0,0.018364077128845295,11818.015625,2.16,0,11.3,10–20 yrs
+10264,Production       ,Production Technician I,59728,0,2012-01-09,Fully Meets,Female,2013.0,72599.0,22063.07,139730.93,0,,0.3693924122689526,-229.984375,2.34,0,13.8,10–20 yrs
+10264,Production       ,Production Technician I,59728,0,2012-01-09,Fully Meets,Female,2014.0,77814.52,33192.52,161261.12,0,0.0,0.5557279667827484,-229.984375,2.7,0,13.8,10–20 yrs
+10265,Production       ,Production Technician I,58709,1,2012-02-20,Fully Meets,Male,2015.0,41673.44,0.0,59015.26,0,,0.0,-1248.984375,1.01,1,13.7,10–20 yrs
+10266,Production       ,Production Technician I,61355,1,2014-02-17,Fully Meets,Male,2015.0,61355.0,0.0,61355.0,1,,0.0,1397.015625,1.0,1,11.7,10–20 yrs
+10267,Production       ,Production Technician II,57815,0,2011-01-10,Fully Meets,Female,2014.0,58716.87,2785.98,90860.51,0,,0.0481878405258151,-2142.984375,1.57,0,14.8,10–20 yrs
+10268,Production       ,Production Technician II,67176,1,2007-06-25,Fully Meets,Male,2013.0,45492.16,0.0,67064.79,0,,0.0,7218.015625,1.0,1,18.3,10–20 yrs
+10268,Production       ,Production Technician II,67176,1,2007-06-25,Fully Meets,Male,2016.0,56722.96,1197.74,81754.98,0,0.0,0.017829879718947242,7218.015625,1.22,1,18.3,10–20 yrs
+10269,Production       ,Production Technician II,59369,1,2010-08-30,Fully Meets,Male,2013.0,127302.86,0.0,200241.97,0,,0.0,-588.984375,3.37,1,15.1,10–20 yrs
+10270,Production       ,Production Technician II,74813,0,2011-01-10,Fully Meets,Female,2015.0,74813.0,0.0,74813.0,1,,0.0,14855.015625,1.0,0,14.8,10–20 yrs
+10271,Production       ,Production Technician I,45046,0,2014-09-29,Fully Meets,Female,2013.0,2544.4,0.0,3664.61,0,,0.0,-14911.984375,0.08,0,11.1,10–20 yrs
+10272,Sales,Director of Sales,180000,0,2014-05-05,Fully Meets,Female,2015.0,180000.0,0.0,180000.0,1,,0.0,111911.625,1.0,0,11.5,10–20 yrs
+10273,IT/IS,IT Support,65707,0,2010-05-01,Fully Meets,Female,2015.0,65707.0,0.0,65707.0,1,,0.0,-32222.19354838709,1.0,0,15.5,10–20 yrs
+10274,Production       ,Production Manager,80512,0,2011-09-26,Fully Meets,Female,2016.0,94456.6,0.0,131007.69,0,,0.0,20554.015625,1.63,0,14.1,10–20 yrs
+10275,Production       ,Production Technician II,64066,0,2011-05-16,Fully Meets,Female,2015.0,64066.0,0.0,64066.0,1,,0.0,4108.015625,1.0,0,14.4,10–20 yrs
+10276,Production       ,Production Technician I,51259,1,2014-05-12,Fully Meets,Male,2014.0,92707.2,0.0,132489.79,0,,0.0,-8698.984375,2.58,1,11.4,10–20 yrs
+10277,Production       ,Production Technician I,53250,1,2013-07-08,Fully Meets,Male,2015.0,53250.0,0.0,53250.0,1,,0.0,-6707.984375,1.0,1,12.3,10–20 yrs
+10278,Production       ,Production Technician I,47961,0,2011-01-10,Fully Meets,Female,2014.0,66484.06,38627.78,146083.01,0,,0.8053998040074227,-11996.984375,3.05,0,14.8,10–20 yrs
+10278,Production       ,Production Technician I,47961,0,2011-01-10,Fully Meets,Female,2015.0,65227.4,29106.35,135329.09,0,0.0,0.6068753779112195,-11996.984375,2.82,0,14.8,10–20 yrs
+10279,Production       ,Production Technician I,61349,0,2013-11-11,Fully Meets,Female,2015.0,61349.0,0.0,61349.0,1,,0.0,1391.015625,1.0,0,11.9,10–20 yrs
+10280,Production       ,Production Technician I,60340,1,2012-04-02,Needs Improvement,Male,2016.0,4340.39,0.0,5894.96,0,,0.0,382.015625,0.1,1,13.6,10–20 yrs
+10281,Production       ,Production Technician I,53060,1,2014-02-17,Needs Improvement,Male,2016.0,123106.14,179.34,203671.5,0,,0.003379947229551451,-6897.984375,3.84,1,11.7,10–20 yrs
+10282,Production       ,Production Manager,68051,1,2010-07-20,Needs Improvement,Male,2014.0,153619.04,0.0,218066.01,0,,0.0,8093.015625,3.2,1,15.3,10–20 yrs
+10283,Production       ,Production Technician I,54933,1,2012-04-02,Needs Improvement,Male,2014.0,57537.53,14312.63,109796.86,0,,0.260547030018386,-5024.984375,2.0,1,13.6,10–20 yrs
+10284,Production       ,Production Technician I,61584,0,2013-01-07,Needs Improvement,Female,2014.0,20146.19,0.0,29308.84,0,,0.0,1626.015625,0.48,0,12.8,10–20 yrs
+10285,Production       ,Production Technician I,61422,0,2011-01-10,Needs Improvement,Female,2014.0,132196.51,7469.51,196022.48,0,,0.12160968382664192,1464.015625,3.19,0,14.8,10–20 yrs
+10286,Production       ,Production Technician I,53564,1,2011-01-10,Needs Improvement,Male,2014.0,55951.26,8176.85,103996.05,0,,0.15265570159062058,-6393.984375,1.94,1,14.8,10–20 yrs
+10286,Production       ,Production Technician I,53564,1,2011-01-10,Needs Improvement,Male,2015.0,64491.26,6078.49,114077.61,0,0.0,0.11348088268239861,-6393.984375,2.13,1,14.8,10–20 yrs
+10287,Production       ,Production Technician I,63025,0,2014-02-17,Needs Improvement,Female,2013.0,2150.4,0.0,3609.35,0,,0.0,3067.015625,0.06,0,11.7,10–20 yrs
+10287,Production       ,Production Technician I,63025,0,2014-02-17,Needs Improvement,Female,2014.0,1835.93,0.0,3005.8,0,0.0,0.0,3067.015625,0.05,0,11.7,10–20 yrs
+10288,IT/IS,IT Manager - Infra,157000,1,2012-02-15,Needs Improvement,Male,2014.0,88842.07,4474.15,135299.24,0,,0.02849777070063694,59070.80645161291,0.86,1,13.7,10–20 yrs
+10289,Production       ,Production Manager,83082,1,2011-02-21,Needs Improvement,Male,2013.0,1333.98,0.0,1914.24,0,,0.0,23124.015625,0.02,1,14.7,10–20 yrs
+10290,Software Engineering,Software Engineer,99280,0,2011-05-02,Needs Improvement,Female,2015.0,65379.48,18764.61,120901.46,0,,0.18900695004029008,3833.733333333337,1.22,0,14.5,10–20 yrs
+10291,Sales,Sales Manager,72992,1,2014-05-18,Needs Improvement,Male,2013.0,7030.63,640.29,10358.03,0,,0.008772057211749233,4903.625,0.14,1,11.4,10–20 yrs
+10292,Production       ,Production Technician I,59144,1,2011-07-11,Needs Improvement,Male,2013.0,44318.06,150.27,72005.4,0,,0.0025407480048694714,-813.984375,1.22,1,14.3,10–20 yrs
+10292,Production       ,Production Technician I,59144,1,2011-07-11,Needs Improvement,Male,2016.0,51305.83,0.0,81902.73,0,0.0,0.0,-813.984375,1.38,1,14.3,10–20 yrs
+10293,Production       ,Production Technician I,50274,0,2012-08-13,Needs Improvement,Female,2015.0,50274.0,0.0,50274.0,1,,0.0,-9683.984375,1.0,0,13.2,10–20 yrs
+10294,Production       ,Production Technician II,66441,0,2011-04-04,Needs Improvement,Female,2014.0,4129.97,0.0,5835.38,0,,0.0,6483.015625,0.09,0,14.5,10–20 yrs
+10295,Production       ,Production Technician I,47750,0,2016-07-04,Needs Improvement,Female,2013.0,83196.13,0.0,117722.55,0,,0.0,-12207.984375,2.47,0,9.3,5–10 yrs
+10295,Production       ,Production Technician I,47750,0,2016-07-04,Needs Improvement,Female,2016.0,122146.8,0.0,175073.12,0,0.0,0.0,-12207.984375,3.67,0,9.3,5–10 yrs
+10296,Production       ,Production Technician I,59124,0,2014-02-17,Needs Improvement,Female,2014.0,67457.82,0.0,100731.78,0,,0.0,-833.984375,1.7,0,11.7,10–20 yrs
+10297,Production       ,Production Technician II,60270,0,2011-07-05,Needs Improvement,Female,2015.0,60270.0,0.0,60270.0,1,,0.0,312.015625,1.0,0,14.3,10–20 yrs
+10298,Production       ,Production Technician II,55800,1,2011-08-15,PIP,Male,2015.0,100465.3,0.0,144290.74,0,,0.0,-4157.984375,2.59,1,14.2,10–20 yrs
+10299,Production       ,Production Technician II,56847,0,2014-07-07,PIP,Female,2014.0,66038.43,41158.25,149289.62,0,,0.724017978081517,-3110.984375,2.63,0,11.3,10–20 yrs
+10300,Production       ,Production Technician II,68898,1,2010-04-26,PIP,Male,2013.0,95984.52,0.0,131930.92,0,,0.0,8940.015625,1.91,1,15.5,10–20 yrs
+10300,Production       ,Production Technician II,68898,1,2010-04-26,PIP,Male,2014.0,38115.0,0.0,53064.84,0,0.0,0.0,8940.015625,0.77,1,15.5,10–20 yrs
+10301,Production       ,Production Technician I,48513,0,2008-09-02,PIP,Female,2015.0,48513.0,0.0,48513.0,1,,0.0,-11444.984375,1.0,0,17.1,10–20 yrs
+10302,Production       ,Production Technician I,64021,0,2012-02-20,PIP,Female,2015.0,35975.63,0.0,57977.76,0,,0.0,4063.015625,0.91,0,13.7,10–20 yrs
+10303,Production       ,Production Technician I,52674,0,2014-03-31,PIP,Female,2013.0,55026.0,0.0,89662.08,0,,0.0,-7283.984375,1.7,0,11.6,10–20 yrs
+10304,Sales,Area Sales Manager,59231,0,2012-02-20,PIP,Female,2016.0,21007.61,91.43,39778.66,0,,0.0015436173625297566,-8857.375,0.67,0,13.7,10–20 yrs
+10305,Sales,Area Sales Manager,70187,1,2014-09-29,PIP,Male,2014.0,82364.0,18512.44,147580.04,0,,0.2637588157351076,2098.625,2.1,1,11.1,10–20 yrs
+10305,Sales,Area Sales Manager,70187,1,2014-09-29,PIP,Male,2015.0,82578.54,11946.21,134144.21,0,0.0,0.1702054511519227,2098.625,1.91,1,11.1,10–20 yrs
+10305,Sales,Area Sales Manager,70187,1,2014-09-29,PIP,Male,2016.0,86937.58,18283.26,147402.45,0,0.0,0.26049353868950087,2098.625,2.1,1,11.1,10–20 yrs
+10306,Sales,Area Sales Manager,61568,1,2014-09-29,PIP,Male,2014.0,59822.8,11011.38,110415.47,0,,0.17884907744282744,-6520.375,1.79,1,11.1,10–20 yrs
+10307,Sales,Area Sales Manager,58273,1,2014-05-12,PIP,Male,2015.0,58273.0,0.0,58273.0,1,,0.0,-9815.375,1.0,1,11.4,10–20 yrs
+10308,Production       ,Production Technician I,64057,1,2015-05-11,PIP,Male,2015.0,56531.01,326.55,89972.82,0,,0.005097803518741121,4099.015625,1.4,1,10.4,10–20 yrs
+10309,IT/IS,Network Engineer,53366,1,2015-03-30,PIP,Male,2014.0,0.0,0.0,11721.18,0,,0.0,-44563.19354838709,0.22,1,10.6,10–20 yrs
+10310,Production       ,Production Technician I,53189,1,2014-07-07,PIP,Male,2013.0,19867.69,12339.71,47630.91,0,,0.2319974054785764,-6768.984375,0.9,1,11.3,10–20 yrs
+10310,Production       ,Production Technician I,53189,1,2014-07-07,PIP,Male,2014.0,20889.78,9609.44,47643.4,0,0.0,0.18066592716539134,-6768.984375,0.9,1,11.3,10–20 yrs
+10311,Production       ,Production Technician I,56991,1,2018-07-09,Fully Meets,Male,2013.0,152284.03,0.0,204177.89,0,,0.0,-2966.984375,3.58,1,7.3,5–10 yrs
